@@ -44,10 +44,8 @@ Iwork index.html styles.css script.js
     <script src="script.js"></script>
   </body>
 </html>
-
-```css
-/* You can also include CSS code snippets. */
 ```
+```css
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: #5ec5e4;
@@ -146,10 +144,9 @@ label {
   vertical-align: middle;
   text-align: center;
 }
-
-```javascript
-// You can also include JavaScript code snippets.
 ```
+```javascript
+
 const userInput = document.getElementById('text-input');
 const checkPalindromeBtn = document.getElementById('check-btn');
 const resultDiv = document.getElementById('result');
@@ -191,6 +188,8 @@ userInput.addEventListener('keydown', (e) => {
   }
 });
 
+```
+
 ## Demo 📸
 
 Include a demo or animated GIF of your project. You can use tools like [asciinema](https://asciinema.org/) to record your terminal sessions.
@@ -213,7 +212,7 @@ Examples:
 
 Folow these steps to set up the project on your local machine Ensure you have the following software installed on your machine
 
-git clone 
+# git clone 
 
 https://github.com/fatiabdulahi/Palindrome-Checker-project/
 
@@ -240,10 +239,6 @@ Provide your name and a link to your Social Media profiles. You can also include
 
 ## Contributing 🤝
 
-Provide guidelines for others who want to contribute to your project. Include information on how to submit bug reports, feature requests, or pull requests.
-
-## License 📜
-
 Specify the license under which your project is distributed. Include any relevant copyright or attribution notices.
 We welcome contributions from the community! Please follow the guidelines below to contribute to our project.
 1: Fork the Repository: Click the "Fork" button at the top right of the repository page to create a copy of the repository on your GitHub account.
@@ -254,4 +249,4 @@ We welcome contributions from the community! Please follow the guidelines below 
 6: Push to Your Fork: Push your changes to your forked repository:git push origin feature-or-bugfix-description
 7: Submit a Pull Request: Go to the original repository and submit a pull request from your forked repository. Provide a clear and concise description of your changes and why they should be merged.
 
-License 📜
+## License 📜

@@ -9,6 +9,13 @@
 Examples;
 Iwork index.html styles.css script.js
 
+
+## Demo 📸
+
+Include a demo or animated GIF of your project. You can use tools like [asciinema](https://asciinema.org/) to record your terminal sessions.
+
+![Demo](demo.png)
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -190,11 +197,6 @@ userInput.addEventListener('keydown', (e) => {
 
 ```
 
-## Demo 📸
-
-Include a demo or animated GIF of your project. You can use tools like [asciinema](https://asciinema.org/) to record your terminal sessions.
-
-![Demo](demo.png)
 
 ## Technologies Used 🛠️
 

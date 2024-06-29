@@ -1,6 +1,4 @@
 # Palindrome-Checker-project
-# Palindrome-Checker-project.
-# Project Title 🚀
 
 ## Project Description 📝
 

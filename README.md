@@ -194,7 +194,7 @@ userInput.addEventListener('keydown', (e) => {
 
 Include a demo or animated GIF of your project. You can use tools like [asciinema](https://asciinema.org/) to record your terminal sessions.
 
-![Demo]()
+![Demo](Screenshot 2024-06-29 050237.png)
 
 ## Technologies Used 🛠️
 
